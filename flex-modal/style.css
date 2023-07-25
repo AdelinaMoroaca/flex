@@ -44,7 +44,6 @@ body {
 .title {
     display: flex;
     justify-content: space-between;
-    /* padding: 20px; */
 }
 
 .right {
@@ -65,10 +64,6 @@ body {
   border: 1px solid #eee;
   padding: 0;
 }
-
-/* .text {
-    display: flex;
-} */
 
 button {
   cursor: pointer;
